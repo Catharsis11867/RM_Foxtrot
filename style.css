@@ -5,7 +5,7 @@ body {
   text-align: center;
   color: #ec0909;
   font-family: 'Open Sans', sans-serif;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 1.5;
   margin: 0;
   padding: 0;
@@ -18,19 +18,7 @@ a{
 
 
 
-/* Project styles */
-.projects {
-  margin: 50px auto;
-  max-width: 800px;
-}
 
-.project {
-  background-color: #0a0a0a;
-  border: 1px solid #000000;
-  
-  margin-bottom: 20px;
-  padding: 20px;
-}
 
 
 
