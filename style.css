@@ -1,0 +1,30 @@
+/* Global styles */
+body {
+  background-image: url('https://media.wired.com/photos/59346dfa86599a3834f7d925/master/w_3336,h_2400,c_limit/hogwarts.jpg');
+  background-size: cover;
+  text-align: center;
+}
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+/* Project styles */
+.projects {
+  margin: 50px auto;
+  max-width: 800px;
+}
+
+.project {
+  border: 1px solid #f70808;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+
+
