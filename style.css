@@ -3,12 +3,16 @@ body {
   background-image: url('https://media.wired.com/photos/59346dfa86599a3834f7d925/master/w_3336,h_2400,c_limit/hogwarts.jpg');
   background-size: cover;
   text-align: center;
-}
+  color: #ec0909;
   font-family: 'Open Sans', sans-serif;
-  font-size: 30px;
+  font-size: 15px;
   line-height: 1.5;
   margin: 0;
   padding: 0;
+}
+a{
+  background-color: #0a0a0a;
+  border: 1px solid #000000;
 }
 
 
@@ -21,7 +25,9 @@ body {
 }
 
 .project {
-  border: 1px solid #f70808;
+  background-color: #0a0a0a;
+  border: 1px solid #000000;
+  
   margin-bottom: 20px;
   padding: 20px;
 }
